@@ -1,0 +1,14 @@
+.flex {
+    border: 10px solid black;
+    width: 500px;
+    display: flex;
+    height: 300px;
+}
+
+.flex__item {
+    padding: 20px;
+    background: teal;
+    color: white;
+    margin: 10px;
+    flex-basis: 100px;
+}
